@@ -1,0 +1,1 @@
+This notebook contains different qoperations performed on the datasets which can help one understand the levels of operations in SQL. The whole purpose was to practice SQL using **SQLAlchemy for Python**.
