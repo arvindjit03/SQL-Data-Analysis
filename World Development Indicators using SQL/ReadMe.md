@@ -9,3 +9,7 @@ The purpose of this project was to practice SQL. We have used World Development 
 - SQL Filtering and Sorting
 - SQL Aggregate functions
 - Used CASE expression
+
+#### Conclusion: 
+
+We saw in the notebook, how we can use SQLite with Python to not only perform SQL operations on the dataset to analyze but also can visualize it at the same point using different libraries available in Python.
