@@ -5,3 +5,7 @@ This notebook contains different operations performed on the datasets which can 
 -> **Database diagram**: 
 
 ![Database](https://github.com/arvindjit03/SQL-Data-Analysis/blob/f417eceefce7a31c07133468282b08771b05ee30/Beginner%20to%20Intermediate%20Practice%20using%20SQL/SQL-Server-Sample-Database.png)
+
+**Beginner**
+
+**Intermediate**
