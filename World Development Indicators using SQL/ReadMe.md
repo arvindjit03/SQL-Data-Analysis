@@ -7,7 +7,7 @@ The purpose of this project was to practice SQL.
 - Used SQLite to connect with the database.sqlite file
 - Retrieving data from the tables
 - SQL Filtering and Sorting
-- SQL Aggregate functions
+- SQL Aggregate functions 
 - Used CASE expression
 
 -> **Libraries used**:
